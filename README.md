@@ -17,6 +17,5 @@
 - MQTT
 - Web API
 
-[直接來看看怎麼做吧]("Python工業4.0 - 工廠監控系統.ipynb")
 
 <a href="Python工業4.0 - 工廠監控系統.ipynb" target="_blank">直接來看看怎麼做吧</a>
