@@ -93,6 +93,7 @@ def read_power_meter():
 #   iot.eclipse.org
 #   test.mosquitto.org
 #   broker.hivemq.com
+#   mqtt.eclipseprojects.io  # new for test
 broker_address="iot.eclipse.org"
 topic = "malo-iot/light"
 client1 = mqtt.Client()    #create new instance
